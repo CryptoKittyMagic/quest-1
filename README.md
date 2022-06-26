@@ -10,4 +10,4 @@
 
 4.Developer Experience:     Cadence error messages feature is good for the developer to see their mistakes much sooner and makes developing lot faster.
 
-5.Resource Oriented Programming:           Cadence uses a feature called Resources
+5.Resource Oriented Programming:           Cadence uses a feature called resources that make coding on the flow blockchain more simple.
